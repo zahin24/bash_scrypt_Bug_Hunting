@@ -6,7 +6,7 @@ it is the reposetory where i keep all the automation script.
 ./enum_subdomain.sh tergate.com
 ``
 ## Output
-Dir: Recon- your Tergate
+Dir: Recon/your Tergate
 -
 Here is a reposetory that help you 
 [automation for OSCP preparetion](https://github.com/rkhal101/nmapAutomator.git)
