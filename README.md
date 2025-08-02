@@ -1,5 +1,5 @@
 # bash_scrypt_Bug_Hunting
-it is the reposetory where i keep all the automation script.
+It is the reposetory where i keep all the automation script.
 
 # Command for run the script:
 ``
