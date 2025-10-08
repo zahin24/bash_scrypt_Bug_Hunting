@@ -1,14 +1,23 @@
-# bash_scrypt_Bug_Hunting
-It is the reposetory where i keep all the automation script.
+# Bash_scrypt_Bug_Hunting
 
-# Command for run the script:
+This repository contains my automation scripts for bug hunting and recon.
+The scripts are small utilities to speed up common tasks (subdomain enumeration, recon, etc.).
+# Usage:
+- Run the ``enum_sumbdomain.sh`` script like this:
 ``
 ./enum_subdomain.sh tergate.com
 ``
-## Output
-Dir: Recon/your Tergate
--
-Here is a reposetory that help you 
-[automation for OSCP preparetion](https://github.com/rkhal101/nmapAutomator.git)
+Replace target.com with the domain you want to test.
 
-[subdomain enumuration](https://github.com/zahin24/bash_scrypt_Bug_Hunting/blob/main/subdomain_enum.sh)
+# Example output
+
+When the ``enum_subdomain.sh`` script finishes it creates a directory for the target recon, for example:
+```
+Dir: Recon/your-target.com
+- subdomains.txt
+- alive.txt
+- screenshots/
+- notes.txt
+
+```
+
