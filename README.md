@@ -1,4 +1,4 @@
-# Bash_scrypt_Bug_Hunting
+# Bug Hunting Automation Scripts
 
 This repository contains my automation scripts for bug hunting and recon.
 The scripts are small utilities to speed up common tasks (subdomain enumeration, recon, etc.).
