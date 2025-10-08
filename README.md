@@ -8,6 +8,10 @@ The scripts are small utilities to speed up common tasks (subdomain enumeration,
 ./enum_subdomain.sh tergate.com
 ``
 Replace target.com with the domain you want to test.
+- Run ``Hidden_API_Discovery.py`` script like this:
+```
+python3 Hidden_API_Discovery.py https://shein.com --wordlist endpoints.txt --output hits.txt --threads 20
+```
 
 # Example output
 
