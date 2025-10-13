@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # Hidden_API_Discovery.py
 # Usage examples:
-#   python3 Hidden_API_Discovery.py shein.com
 #   python3 Hidden_API_Discovery.py https://shein.com --wordlist endpoints.txt --output hits.txt --threads 20
 
 import argparse
