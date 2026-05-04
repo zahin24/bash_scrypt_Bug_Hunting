@@ -6,7 +6,7 @@ My personal toolkit for speeding up bug hunting and recon. I built these scripts
 
 ## 📂 Scripts Included
 
-### 1. 🟢 `enum_subdomain.sh`
+### 1. 🟢 `subdomain_enum.sh`
 
 Basic subdomain enumeration script.
 
@@ -18,7 +18,7 @@ Basic subdomain enumeration script.
 
 ---
 
-### 2. 🔥 `pd_hunt.sh` (Advanced)
+### 2. 🔥 `recon.sh` (Advanced)
 
 Full automation script using ProjectDiscovery tools.
 
@@ -64,13 +64,13 @@ chmod +x *.sh
 ### ▶️ Basic Script
 
 ```bash
-./enum_subdomain.sh example.com
+./subdomain_enum.sh example.com
 ```
 
 ### ▶️ Advanced Script
 
 ```bash
-./pd_hunt.sh example.com
+./recon.sh example.com
 ```
 
 ---
