@@ -1,6 +1,4 @@
 #!/bin/bash
-# ProjectDiscovery Full Hunting Script
-# Usage: ./pd_hunt.sh example.com
 
 if [ -z "$1" ]; then
     echo "Usage: $0 <domain>"
